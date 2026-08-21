@@ -1,0 +1,12 @@
+{
+  "Base": {
+    "lt": [
+      {
+        "key": "lic-7d-16C3-86WF-WX3N-VCCW",
+        "cliente": "catti impossible",
+        "ip": "181.39.25.196",
+        "tipo": "lifetime"
+      }
+    ]
+  }
+}
